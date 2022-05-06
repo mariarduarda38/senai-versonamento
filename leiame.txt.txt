@@ -1,0 +1,8 @@
+"LEIA ME "
+
+Projeto desenvolvido para estudo de versionamento em TI.
+
+por Maria Eduarda Dias
+
+5/05/2022 - Início e Criação do Projeto versionamento, Utilização
+GIT e GITHUB 
